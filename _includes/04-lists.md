@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. love
+2. medicine
+3. music
+   * new music 
+   * beavereges 
